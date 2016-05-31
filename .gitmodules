@@ -1,6 +1,6 @@
 [submodule "public"]
 	path = public
-	url = https://github.com/Ebookcoin/client.git
+	url = http://github.com/Ebookcoin/client.git
 [submodule "test/ebookcoin-js"]
 	path = test/ebookcoin-js
-	url = https://github.com/Ebookcoin/ebookcoin-js.git
+	url = http://github.com/Ebookcoin/ebookcoin-js.git
